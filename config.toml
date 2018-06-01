@@ -2,7 +2,7 @@ baseURL = "https://github.com/dlakinsii/SearchSite"
 languageCode = "en-us"
 title = "SearchSite"
 theme = "hugo-theme-learn"
-themesdir = "../.."
+themesdir = "/themes"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
