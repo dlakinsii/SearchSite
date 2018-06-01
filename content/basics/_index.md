@@ -1,0 +1,9 @@
+---
+title: "Basics"
+date: 2018-06-01T10:54:41-04:00
+draft: true
+---
+### Chapter 1
+
+# Basics
+Discover what this Hugo theme is all about and the core-concepts behind it.
