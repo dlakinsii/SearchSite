@@ -1,7 +1,7 @@
 ---
-title: "Posts"
-date: 2018-06-01T10:54:41-04:00
-draft: true
+title: Posts
+date: 2018-06-01 10:54:41 -0400
+
 ---
 ### 
 # Enter the Osprey
