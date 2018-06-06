@@ -1,0 +1,43 @@
+[
+{
+	"uri": "https://dlakinsii.netlify.com/posts/second-content/",
+	"title": "Static Site Search",
+	"tags": [],
+	"description": "",
+	"content": "Over the summer we will be transition several sites to Hugo Static Site Generator and Forestry Content Management System. While static sites are fast and have many benefits, they lack the dynamic functionality of a back-end server. This makes Search, Contact Forms, Ajax Controls, etc. Difficult to implement. Forestry recommends a SaaS called Algolia to handle Search, but it makes more sense for our purposes to use an open source solution. I have been looking into Lunr.js, ElasticSearch, ElasticLunr, and others, but this site uses Grav\u0026rsquo;s Search.\nThe idea behind Static Site Searching is index the entire site, render it in a JSON file, Search the JSON File, Find where the search tokens exist, and then navigate to that part of the site. This means that the user has to receive the JSON file before any search can be performed. This can be a problem with larger sites, because the more there is to index, the larger the JSON file.\nA common approach to minimizing the size of the index file is to eliminate words that are so common that they aren\u0026rsquo;t useful for searching. Does anyone really need a listing of every page containing, \u0026ldquo;the?\u0026rdquo;\n"
+},
+{
+	"uri": "https://dlakinsii.netlify.com/posts/of-nightmares-and-button-clicks/",
+	"title": "Of Nightmares and Button-Clicks",
+	"tags": [],
+	"description": "",
+	"content": "I had a seemingly simple task of fixing a submit button that was allowing multiple submissions on one of our ASP.NET Web Forms sites. Getting the client and server to agree on when to disable the button proved problematic. I spent a few hours combined with a couple of more experienced developers on our team, and even tried to implement a similar solution from one of our other sites. I was stumped. The pressure was mounting. I got an idea, stayed late, and got it to work by wrapping a div container around the button, writing a JavaScript function that declares variables initialized to ClientID of their corresponding Regular Expression Validator, and used an if( var1.isvalid \u0026amp;\u0026amp; var2.isvalid \u0026amp;\u0026amp; \u0026hellip;) statement to hide the div. Finally I added a progress updater below the button and set the button\u0026rsquo;s onClientClick to return JavaScript function. It worked beautifully. The next day I updated the email recipient for when someone submits that form to a valid email address, and since the email no longer failed to send, it no longer hits the catch block. Now the form is replaced with a thank you message as soon as you submit, making my changes unnecessary.\n"
+},
+{
+	"uri": "https://dlakinsii.netlify.com/posts/",
+	"title": "Posts",
+	"tags": [],
+	"description": "",
+	"content": " Enter the Osprey Swoop!\n"
+},
+{
+	"uri": "https://dlakinsii.netlify.com/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://dlakinsii.netlify.com/",
+	"title": "Documentation for Hugo Learn Theme",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://dlakinsii.netlify.com/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Documentation for Hugo Learn Theme</title>
+    <link>https://dlakinsii.netlify.com/posts/</link>
+    <description>Recent content in Posts on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 10:54:41 -0400</lastBuildDate>
+    
+	<atom:link href="https://dlakinsii.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Of Nightmares and Button-Clicks</title>
+      <link>https://dlakinsii.netlify.com/posts/of-nightmares-and-button-clicks/</link>
+      <pubDate>Fri, 01 Jun 2018 10:59:37 -0400</pubDate>
+      
+      <guid>https://dlakinsii.netlify.com/posts/of-nightmares-and-button-clicks/</guid>
+      <description>I had a seemingly simple task of fixing a submit button that was allowing multiple submissions on one of our ASP.NET Web Forms sites. Getting the client and server to agree on when to disable the button proved problematic. I spent a few hours combined with a couple of more experienced developers on our team, and even tried to implement a similar solution from one of our other sites. I was stumped.</description>
+    </item>
+    
+  </channel>
+</rss>

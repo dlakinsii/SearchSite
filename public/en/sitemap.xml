@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dlakinsii.netlify.com/posts/second-content/</loc>
+    <lastmod>2018-06-01T11:00:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlakinsii.netlify.com/posts/of-nightmares-and-button-clicks/</loc>
+    <lastmod>2018-06-01T10:59:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlakinsii.netlify.com/posts/</loc>
+    <lastmod>2018-06-01T10:54:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dlakinsii.netlify.com/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dlakinsii.netlify.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dlakinsii.netlify.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dlakinsii.netlify.com/</loc>
+    <lastmod>2018-06-01T10:59:37-04:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dlakinsii.netlify.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dlakinsii.netlify.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dlakinsii.netlify.com/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dlakinsii.netlify.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dlakinsii.netlify.com/tags/"
+                />
+  </url>
+  
+</urlset>
