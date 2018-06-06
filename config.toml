@@ -2,7 +2,7 @@ baseURL = "https://dlakinsii.netlify.com/"
 languageCode = "en-us"
 title = "SearchSite"
 theme = "hugo-theme-learn"
-themesdir = "/themes"
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
